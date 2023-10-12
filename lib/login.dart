@@ -32,6 +32,7 @@ class MyApp extends StatelessWidget {
                     children: [
                     LoginButton('Doctor', Colors.pinkAccent),
                     SizedBox(height: 30),
+
                     LoginButton('Patient', Colors.pinkAccent)
 
                   ],
