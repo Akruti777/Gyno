@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: Container(
           decoration: BoxDecoration(
-            color: Colors.teal[900],
+            color: Colors.deepPurpleAccent[100],
           ),
           child: Center(
             child: Stack(
